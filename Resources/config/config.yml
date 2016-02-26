@@ -1,0 +1,5 @@
+cmf_seo:
+    title: seo.title
+    description: seo.description
+    persistence:
+        orm:
