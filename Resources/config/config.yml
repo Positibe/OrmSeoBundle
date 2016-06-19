@@ -1,5 +1,5 @@
 cmf_seo:
-    title: seo.title
-    description: seo.description
+    title: %%content_title%%
+    description: %%content_description%%
     persistence:
         orm:
